@@ -1,4 +1,6 @@
 import styles from './App.module.css'
+import { useEditor, EditorContent } from '@tiptap/react'
+import StarterKit from '@tiptap/starter-kit'
 
 function App() {
   return (
